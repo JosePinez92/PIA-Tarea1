@@ -2,11 +2,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Programacion de Inteligencia Artificial</title>
+<title></title>
 </head>
 
 <body>
-Para la tarea1 se han seguido los siguientes pasos:
+<h1>Programación Inteligencia Artificial</h1>
+<h3>Para la tarea1 se han seguido los siguientes pasos:</h3>
 <ul>
  <li>Instalacion de Python y PyCharm</li>
  <li>Creacion de repositorio en Github</li>
